@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>¿La loca?</title>
+            <author>Julio Posada R.</author>
+            <editor>Laura-Fernanda Ardila-Donado</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace> Medellin </pubPlace>
+         <publisher>Humano 1</publisher>
+         <date> Mayo de 1913</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+      <div>
+       <head>¿La loca?</head>
+      
+      <p><lb/>Tiraba de la ruana al tío, que paseándose garbosamente, cumplía con absoluta 
+ <lb>exactitud su consigna: hablar, hablar: 
+
+<p><lb/> —Sí, ya nos vamos, ñatico; vas a ver qué cosas tan buenas... un <name type="personRoleName">maestro</name> de 
+<Lb/>cuna banda de música muy parecido a otro de la escuela nocturna en que estuve yo; 
+<lb/> que se ponía a enseñarnos unas cuentas, y cuando estaba bien enredado nos decía: 
+<lb/> «bueno; esto es así, pero es que hay cuentas que no salen», y cogía a enseñarnos otra 
+<lb/> cosa; y a mí me cogía una risa como si recordara algún cuento bien bueno de unos 
+<lb/> que yo sé; por ejemplo, una vez se encontraron dos comadres...s</p>
+
+<p><lb/> —No más, por 
+<lb/> Dios -le interrumpió 
+<lb/> la hermana—que 
+<lb/> cuando se te acaba 
+<lb/> el material te estás 
+<lb/> repitiéndonos unas 
+<lb/> mismas cosas que las 
+<lb/> sabe todo el mundo.</p>  
+
+<p><lb/> —Consígame unos 
+<lb/> tabacos, hija —Y si-
+<lb/> guió el hablador: </p>
+
+<p><Lb/> —Yo te aguardo 
+<lb/> que volvás para que 
+<lb/> gocés con este cuen-
+<lb/> to; saludes a <name type="person">don 
+<lb/> Marcos</name>, y que ya 
+<lb/> voy allá a meterme 
+<lb/> un tigre. Pues sí, cu-
+<lb/> ñado: se encontraron 
+<lb/> en media falda; y eso 
+<lb/> era lo más divino: 
+<lb/> «—¿Cómo está coma-
+<lb/> drita?» «—Pues ello 
+<lb/> <choice><origin> ai </origin><reg>ahí</reg></choice> vamos, comadrita; 
+
+<pb n="1"><p>¿y se va <origin>pa</origin> la<name type="placeGeog">Villa?»</name>
+<lb/> —«Pues yo sí, coma-
+<lb/> drita; y usté no <choice><origin> se-
+<lb/> boy?»* </origin><reg>se va a ir</reg></choice> «Yo no sé 
+<lb/> si podrirme»* —
+<lb/><origin> <choice><origin> «¿Quiay </origin><reg>«¿Qué hay</reg></choice> de la ahija-
+<lb/> da ... »?</p>
+
+<p><lb/> Dos condiscípulos 
+<lb/> de <name type="person">«Samuel chiquito» </name>
+<lb/> llegaron a la puerta 
+<lb/> a preguntar por él.</p>
+
+<p><lb/> —Allí salió pal 
+<lb/> solar —contestó el tío. 
+<lb/> Volvió la madre. 
+<lb/> Ya estaba enalparga-
+<lb/> tado el papá:</p>
+
+<p><lb/> —Nos vamos, 
+<lb/> pues. 
+<lb/> —¡Y qué! ¿me de-
+<lb/> jan comenzado mi cuento? </p>
+
+<p><lb/> <name type="person"> —¡Samuel chiquito! </name> 
+<lb/> —lo llamaron.
+<lb/> —Bueno <origin> <choice><origin> «¿Quiay </origin><reg>«¿Qué hay</reg></choice>de la ahijada, ya está muy sabida?» —«Ello siempre, ya dice
+<lb/> arracacha» —«¿Y mi compadre <name type="person">Alifonso </name> ? ... » 
+<lb/> —¡Tocayo! ¡Nos vamos!
+<lb/> —¿Saldría pa la calle tal vez?
+<lb/> —¡Yo lo vi que salió <origin>pal</origin> <name type="placeGeog">solar!</name>
+<lb/> —¿Se iría pa la <name type="placeGeog">vecindad?</name></p>
+
+<p><lb/> Los muchachos salieron corriendo. La madre fue a preguntar a los vecinos a 
+<lb/> voz en cuello, por la parte interior de la casa, pues por allí se hallaban unidas casi 
+<Lb/> todas, en cuál estaba <name type="person"> <sic> (samuel chiquito)</sic> </name>; le contestaron que no había ido a ninguna.
+<lb/> Volvieron los muchachos: que no lo encontraron ni en la calle, ni en las casas vecinas 
+<lb/> ni en las tiendas. Y aseguró el tío:</p>  
+<div>
+      <body>
+  <text>
+<TEI>
+
+
