@@ -15,9 +15,8 @@
 title: Edición digital Revista Humano 1 (Medellín, 1913)
 email: suarezg106@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  En el marco del curso de Edición Digital (2021-20), de la Universidad EAFIT, 
+  ofrecemos la edición digital de dos textos incluidos en la revista Humano 1 (Medellín, 1913).
 baseurl: "/revhumano" # the subpath of your site, e.g. /blog
 url: "https://cristiansuarez-giraldo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
