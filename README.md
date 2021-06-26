@@ -1,2 +1,2 @@
 # revhumano
-Este proyecto es...
+En el marco del curso de Edición Digital (2021-20), de la Universidad EAFIT, ofrecemos la edición digital de dos textos incluidos en la revista Humano 1, publicada en Medellín (1913). Los textos "Cacao sabanero" y "¿La Loca?" han sido marcados bajo el estándar XML-TEI.

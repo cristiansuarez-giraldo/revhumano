@@ -12,7 +12,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Edición digital Revista Humano 1 (Medellín, 1913)
+title: Edición digital revista Humano 1 (Medellín, 1913)
 email: suarezg106@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   En el marco del curso de Edición Digital (2021-20), de la Universidad EAFIT, 
