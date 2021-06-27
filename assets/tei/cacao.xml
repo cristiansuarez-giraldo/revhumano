@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cacao sabanero</title>
+            <author>Emilio Jaramillo</author>
+            <editor>Carolina Giraldo-García</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Medellín</pubPlace>
+         <publisher>Humano 1</publisher>
+         <date when="1913-05">Mayo de 1913</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+         <pb n="6"/>
+        
+            <p>Como la historia se repite, parece
+            <lb/>que vamos teniendo aquí algo parecido a
+            <lb/>lo que sucedió en <name type="country">Francia</name> hace <num type="cardinal" value="3">tres</num> siglos
+            <lb/>cuando la <name type="personRoleName">marquesa</name> de <name type="personRoleName">Brinvilliers</name> dio
+            <lb/>en la extraña locura de aficionarse a la
+            <lb/>química toxicológica y en emplear sus
+            <lb/>preparados y los de sus amigos, para <sic>destruír</sic>
+            <lb/><corr>uno</corr> a uno sus parientes con el
+            <lb/>objeto de recoger todas las herencias.
+            </p>
+            <p>La leyenda popular que se ha formado
+            <lb/>aquí con <hi rendition="simple:italic">el cacao sabanero</hi>, empieza ya
+            <lb/>a tocar, como era natural, en los linderos
+            <lb/>de lo fantástico, y la novela callejera va
+            <lb/>ya en el capítulo de los grandes envenenamientos,
+            <lb/>de trama complicadísima, en
+            <lb/>los cuales entran a figurar
+            <lb/>niños, mujeres y
+            <lb/>verdaderos apaches, cada
+            <lb/>uno de los cuales
+            <lb/>cumple rigurosamente
+            <lb/>y de una manera militar,
+            <lb/>su parte de papel.
+             </p>
+            <p>Las novelas policiacas,
+            <lb/>de ediciones <sic>increiblemente</sic>
+            <lb/>baratas, al alcance
+            <lb/>de todo aquel que
+            <lb/>sepa  leer, han <sic>contribuído</sic>
+            <lb/> a exaltar la imaginación
+            <lb/>popular, siempre
+            <lb/>entusiasta del misterio,
+            <lb/>y es probable que
+            <lb/>muchas aficiones latentes,
+            <lb/>muchas vocaciones
+            <lb/>ignoradas, vayan revelándose
+            <lb/>a diario con ensayos
+            <lb/>de fechorías más
+            <lb/>o menos graves. <name type="personRoleName">Sir</name>
+            <lb/><name type="person">John Raffles</name>, con su
+            <lb/>eterno cigarrillo y su
+            <lb/>eterna sonrisa irónica,
+            <lb/><name type="person">Arsenio Lupin</name>... y
+            <lb/>tantos héroes más del
+            <lb/>mismo porte, empiezan
+            <lb/>a caldear el entusiasmo
+            <lb/>de los jóvenes,
+            <lb/>como en otro tiempo lo
+            <lb/>hiciera la maravillosa
+            <lb/>historia napoleónica. Y
+            <lb/>es un hecho, que inspira
+            <lb/>más entusiasmo hoy
+            <lb/><name type="personRoleName">Lord</name> <name type="person">Lister</name> con su antifaz,
+            <lb/>su linterna eléctrica
+            <lb/>y su quemador oxhídrico, que el que
+            <lb/>inspiraba hace años <name type="personRoleName">Lord</name> <name type="person">Byron</name> con su
+            <lb/>capa, su belleza apolínea y sus extravagancias
+            <lb/>­soberanas.
+            </p>
+            <p>Parece que el uso del <hi rendition="simple:italic">cacao sabanero</hi>
+            <lb/>en ciertos barrios de la ciudad, y en la
+            <lb/><name type="placeGeog">Plaza de Mercado</name>, ha sido un hecho, y se
+            <lb/>habla de los nombres de las víctimas y de
+            <lb/>las sumas que por ese sistema les han sido
+            <lb/>robadas.
+            </p>
+            <p>Con el objeto de complacer a los señores
+            <lb/> Redactores de esta Revista, accediendo
+            <lb/>a una insistencia para mí muy
+            <lb/>honrosa, escribo estas líneas que tienen
+            <lb/>su sabor de actualidad, y que aun pudieran,
+            <lb/>me parece, precaver
+            <lb/>a los incautos, pues
+            <lb/>no hay duda de que se
+            <lb/>está empleando el veneno
+            <lb/>para robarles.
+            </p>
+            <p>En días pasados me
+            <lb/>fueron enviados al <name type="org">Laboratorio
+            <lb/>de la Universidad</name>
+            <lb/> varios frascos y
+            <lb/>paquetes que contenían
+            <lb/>sustancias diversas, y
+            <lb/>que la autoridad me
+            <lb/>exigía analizar, especialmente
+            <lb/>desde el punto
+            <lb/>de vista de la acción
+            <lb/>fisiológica que la sustaancia
+            <lb/>o sustancias reconocidas
+            <lb/>como tóxicas
+            <lb/>pudieran tener.
+            </p>
+            <p>El análisis de las semillas
+            <lb/>sospechadas como
+            <lb/>cacao sabanero, y
+            <lb/>los experimentos fisiológicos
+            <lb/><hi rendition="simple:italic"><foreign xml:lang="la">in anima vili</foreign></hi>,
+            <lb/>fueron concluyentes y
+            <lb/>a estas horas no me dejan
+            <lb/>incertidumbre alguna
+            <lb/>con respecto a dicha
+            <lb/>sustancia y sus
+            <lb/>efectos. Las semillas
+            <lb/>son negras, rugosas,
+            <lb/>grandes, duras, bastante
+            <lb/>parecidas al cacao de
+            <lb/>mala clase llamado <hi rendition="simple:italic">pasilla</hi>
+            <lb/>en el mercado. Poseen
+            <lb/>un principio <sic>activo-
+            <lb/>probablemente un
+            <pb n="7"/>
+            <lb/>alcaloide-que</sic> es un veneno violento, ca­paz
+            <lb/>en dosis muy pequeñas, de causar la
+            <lb/>muerte rápidamente.
+            </p>
+            <p>Además: para obtener con este vene­no
+            <lb/>los efectos necesarios para desvalijar
+            <lb/>rápidamente a un individuo, o para abu­sar
+            <lb/>de él en cualquier sentido, no se necesitan
+            <lb/>­<hi rendition="simple:italic">ni el principio activo puro, ni gran­des
+            <lb/>dosis</hi>. Operaciones de simple farmacia
+            <lb/>bastan para que esas semillas den una
+            <lb/>buena cantidad de sustancia peligrosa de
+            <lb/>un manejo fácil. Algunas gotas de ella en
+            <lb/>ron, brandy, cerveza o aguardiente, son
+            <lb/>suficientes. De ahí el gran peligro.
+            </p>
+            <p>Este veneno obra como la atropina
+            <lb/>y la daturina, pero <hi rendition="simple:italic">es más</hi> activo que
+            <lb/>ellas. Dilata la pupila, produce vértigos,
+            <lb/>parálisis de los miembros, un período de
+            <lb/><hi rendition="simple:italic">estupefacción</hi> muy marcado y que se ter­mina
+            <lb/>con un sueño profundo si la dosis
+            <lb/>fue moderada, o con la muerte si la dosis
+            <lb/>fue relativamente grande.
+            </p>
+            <p>A esta clase de venenos se les llama
+            <lb/><hi rendition="simple:italic">estupefacientes</hi> debido a uno de sus efectos
+            <lb/>ya señalado, y que es el que se busca
+            <lb/>cuando se administra la semilla con fines
+            <lb/>criminales, pues priva a la víctima de toda
+            <lb/>defensa y da al envenenador un domi­nio
+            <lb/>absoluto sobre ella.
+            </p>
+            <p>DR. EMIILIO JARAMIILLO.
+            </p>
+            <p>VI–13–13
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>

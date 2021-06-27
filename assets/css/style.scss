@@ -35,3 +35,60 @@ $link-color: #841212;
   display: float;
 margin:auto;
 }
+
+div.c {
+  text-align: justify;
+}
+
+.ImgMiniatura {
+  width: 200px;
+  margin: 30px 30px 30px 0;
+  float: center;
+  border-radius: 10%;
+}
+
+.PrintedImg {
+  border-radius: 5%;
+  display:block;
+margin:auto;
+}
+
+
+.bio {
+
+  text {
+    float: right;
+    text-align: justify;
+    font-size: large;
+  }
+
+  img {
+    float: none;
+    max-width: 250px;
+    margin-bottom: 0;
+    margin-right: 20px;
+    margin-top: 20px;
+    border-radius: 10%;
+  } 
+} 
+
+
+
+.content{
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content: center;
+}
+
+.item{
+  margin: 30px 20px;
+  text-align:center;
+}
+
+.navigation {
+  display: flex;
+  justify-content: normal;
+  align-items: center;
+  margin-top: 0px;
+}
